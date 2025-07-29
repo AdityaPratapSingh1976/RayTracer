@@ -794,4 +794,9 @@ CMakeFiles/RayTracer.dir/main.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk/usr/include/c++/v1/print \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk/usr/include/unistd.h \
   /Users/adityapratapsingh/Documents/RayTracer/vec3.h \
-  /Users/adityapratapsingh/Documents/RayTracer/color.h
+  /Users/adityapratapsingh/Documents/RayTracer/color.h \
+  /Users/adityapratapsingh/Documents/RayTracer/ray.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk/usr/include/c++/v1/cassert \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk/usr/include/assert.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk/usr/include/_assert.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk/usr/include/_static_assert.h

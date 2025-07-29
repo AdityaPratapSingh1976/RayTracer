@@ -1,5 +1,6 @@
 CMakeFiles/RayTracer.dir/main.cpp.o: \
   /Users/adityapratapsingh/Documents/RayTracer/main.cpp \
+  /Users/adityapratapsingh/Documents/RayTracer/include/vec3.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk/usr/include/c++/v1/iostream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk/usr/include/c++/v1/__config \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk/usr/include/c++/v1/__config_site \
@@ -793,9 +794,8 @@ CMakeFiles/RayTracer.dir/main.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk/usr/include/c++/v1/__fwd/stack.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk/usr/include/c++/v1/print \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk/usr/include/unistd.h \
-  /Users/adityapratapsingh/Documents/RayTracer/vec3.h \
-  /Users/adityapratapsingh/Documents/RayTracer/color.h \
-  /Users/adityapratapsingh/Documents/RayTracer/ray.h \
+  /Users/adityapratapsingh/Documents/RayTracer/include/color.h \
+  /Users/adityapratapsingh/Documents/RayTracer/include/ray.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk/usr/include/c++/v1/cassert \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk/usr/include/assert.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk/usr/include/_assert.h \

@@ -1,10 +1,16 @@
+
+#include "include/vec3.h"
+#include "include/color.h"
+#include "include/ray.h"
+
 #include <iostream>
-#include "vec3.h"
-#include "color.h"
-#include "ray.h"
 
 color ray_color(const ray& r){
-    return color(0,0,0);
+    vec3 unit_dir = unit_vector(r.direction());
+    auto a = 0.5 * (unit_dir.y() + 1.0);
+    return color(1.0, 1.0, 1.0) * (1.0 - a) + color(0, 0, 1.0)*a;
+    // y can we -ve between [-1 to 1] so we add 1 to make it [0 to 2] and then multiply by 0.5 to make it [0 to 1]
+
 }
 
 

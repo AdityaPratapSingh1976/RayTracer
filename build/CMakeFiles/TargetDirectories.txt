@@ -1,0 +1,3 @@
+/Users/adityapratapsingh/Documents/RayTracer/build/CMakeFiles/RayTracer.dir
+/Users/adityapratapsingh/Documents/RayTracer/build/CMakeFiles/edit_cache.dir
+/Users/adityapratapsingh/Documents/RayTracer/build/CMakeFiles/rebuild_cache.dir
